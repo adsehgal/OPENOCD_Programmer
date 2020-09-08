@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "RasberryPi")(type "KiCad")(uri "/Users/adityasehgal/Documents/GitHub/OPENOCD_Programmer/Hardware/Project_Libs/RasberryPi.pretty")(options "")(descr ""))
+  (lib (name "RaspberryPi")(type "KiCad")(uri "/Users/adityasehgal/Documents/GitHub/OPENOCD_Programmer/Hardware/Project_Libs/RaspberryPi.pretty")(options "")(descr ""))
+)
