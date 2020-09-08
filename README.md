@@ -1,19 +1,11 @@
 <!-- ![](https://github.com/adsehgal/adsehgal/blob/master/LOGO.png) -->
 ![](LOGO_V1.1.png)
-# *Bench Power Supply PCB*
+# *OPENOCD Programmer*
 
-This repo contains project files for a bench top power supply I designed for my home lab.
+This repo contains project files for a raspberry pi controlled OpenOCD programmer to burn bootloaders to ATMEL SAMD21 MCUs and potentially other microcontrollers.
 
 ## *Requirements:*
-* **Small** for crammed work spaces
-* **Adjustable** and designed to **store values** on each power cycle
-* **2 layer** board
-* **Digitally controlled** - no mechanical parts
-* Clear **annunciators**
-* Uses an external AC-DC converter
-* At least a **2A max** load
-* Cover most logic levels
-* *~ Possibly have preset buttons ~*
+
 ## Built With
 
 * [KiCad](https://kicad-pcb.org/) - Schematic capture and layout
@@ -22,7 +14,6 @@ This repo contains project files for a bench top power supply I designed for my 
 
 ### *Notes:*
 - The PCB uses a 5/5mil DRC constraint
-- The top of the PCB acts as the product face plate
 - Non-standard footprint 3-D models have been provided in the STEP file format
 
 ## Authors
