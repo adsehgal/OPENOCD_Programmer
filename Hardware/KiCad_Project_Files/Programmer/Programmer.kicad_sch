@@ -2106,7 +2106,7 @@
   (symbol (lib_id "Device:Fuse_Small") (at 91.44 92.71 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "986182ae-d382-4bf4-9888-5efaead4ed1d")
-    (property "Reference" "F?" (id 0) (at 92.075 86.995 0))
+    (property "Reference" "F1" (id 0) (at 92.075 86.995 0))
     (property "Value" "Fuse_Small" (id 1) (at 92.075 89.535 0))
     (property "Footprint" "Fuse:Fuse_0603_1608Metric_Castellated" (id 2) (at 91.44 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2882,7 +2882,7 @@
       (reference "D2") (unit 1)
     )
     (path "/986182ae-d382-4bf4-9888-5efaead4ed1d"
-      (reference "F?") (unit 1)
+      (reference "F1") (unit 1)
     )
     (path "/a41027ad-f56a-495d-82be-a54990a7da38"
       (reference "J1") (unit 1)
