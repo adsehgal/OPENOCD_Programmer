@@ -1,21 +1,21 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 40,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
-      "text": false,
-      "tracks": true,
-      "vias": true,
-      "zones": true
+      "otherItems": false,
+      "pads": false,
+      "text": true,
+      "tracks": false,
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       0,
@@ -54,7 +54,7 @@
       34,
       35
     ],
-    "visible_layers": "4f5cf_ffffffff"
+    "visible_layers": "4fdff_ffffffff"
   },
   "meta": {
     "filename": "Programmer.kicad_prl",
