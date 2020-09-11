@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 0,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -54,7 +54,7 @@
       34,
       35
     ],
-    "visible_layers": "7f5ff_ffffffff"
+    "visible_layers": "4f5cf_ffffffff"
   },
   "meta": {
     "filename": "Programmer.kicad_prl",
